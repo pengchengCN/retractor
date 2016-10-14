@@ -1,0 +1,31 @@
+body,div,ul,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,p{padding:0;margin:0;font:14px/22px Arial,"Hiragino Sans GB","微软雅黑","宋体";color:#333;}
+ul,li{list-style:none;}
+a{text-decoration:none;font:14px/22px Arial,"Hiragino Sans GB","微软雅黑","宋体";color:#333;}
+img{border:none;}
+
+#header{min-width:1024px;height:60px;background:#fafafa;border-top:3px solid #00b38a;}
+.header-wrapper{position:relative;margin:0 auto;width:1024px;}
+.lagou-logo{float:left;margin:10px 30px 0 0;width:229px;height:43px;background:url(../image/logo.png) no-repeat;}
+.header-nav li{display:inline-block;padding:0 20px;height:57px;}
+.header-nav li a{font-size:20px;height:57px;line-height:57px;color:#999;display:block;}
+.header-nav li.select a{color:#333;border-bottom:3px solid #00b38a;}
+.header-nav li a:hover{color:#333;}
+.header-login{position:absolute;top:0;right:0;}
+.header-login li{float:left;height:22px;padding:4px 0;background:#00b38a;color:#fff;}
+.header-login li a{padding:0 12px;color:#fff;cursor:pointer;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
